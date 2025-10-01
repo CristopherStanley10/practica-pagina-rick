@@ -33,7 +33,6 @@ body{
     font-size: 3rem;
     margin: 10px 0;
     background: linear-gradient(to right, #b4ec51, #4290f5);
-    -webkit-background-clip: text ;
     -webkit-text-fill-color: transparent;
 }
 
